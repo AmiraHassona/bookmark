@@ -1,0 +1,42 @@
+.bordercolor
+{
+    border-color: #999 !important; 
+}
+.header-color-type
+{
+    font-family: arial;
+    color: #AAA;
+}
+h1
+{
+    font-size: 30px;
+}
+.bg-gray
+{
+    background-color: #EEE;
+}
+input{
+ transition: all 0.5s;
+}
+input:hover
+{
+    box-shadow: 1px 1px 7px rgba(0, 0, 0 ,0.5);
+}
+button
+{
+  transition: all .5s;
+}
+button:hover
+{
+   box-shadow: 2px 6px 7px rgba(0, 0, 0 ,0.8);
+}
+a{
+    transition: all .5s;
+}
+a:hover{
+    box-shadow: 2px 6px 7px rgba(0, 0, 0 ,0.8);
+}
+#bookMarkerBox div
+{
+   background-image: linear-gradient(#EEE,#FFF);  
+}
